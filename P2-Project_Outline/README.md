@@ -12,8 +12,8 @@ This project will offer users a simple analysis of relevant astrological data th
 - CRUD ♻️: Each user will be able to create, read, and update information pertaining to their accounts (passwords or birthdate info). Users will also be able to delete their accounts.
 - User Login Authentication 🔒: Users will be able to create accounts and log in to the application. Each user will have their own profile page.
 - Sun Sign Calculation 🌞: Users will be able to enter their new login and birthdate information into a form, then see their 'sun sign' information on submission.
-- Moon Phase Information w/ Suggested TODOs 🌕: Users will be able to see the moon's current phase, and be suggested a task to do based on that phase.
-- Downloadable Chart Information 💾: Users will be able to read descriptions of signs and planets, which are important elements of the natal (astrological) chart.
+- Moon Phase Information w/ Suggested TODOs 🌕: Users will be able to see the moon's current phase, and be suggested a task based on that phase.
+- Downloadable Chart Information 💾: Users will be able to download and read information about signs and planets, which are important elements of astrology.
 ### Technologies
 - JavaScript or Python
 - MySQL
