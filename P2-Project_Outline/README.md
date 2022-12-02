@@ -7,18 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project will give users a general understanding of astrology, if they don't already have one. It will familiarize users with their very own astrological information, and provide briefs on what each placement means for them. My project may provide users more insight into astrology, hopefully making their own conversations about the topic a bit more informed.
+The project will offer users a simple analysis of relevant astrological data that derives from their birthdate information. It will familiarize users with their very own astrological information, and provide briefs on what specific placements mean for them. The project may provide users a simpler understanding of astrology, hopefully making their own conversations about the topic a bit more informed, and their connection with the world a bit more profound.
 ### Features
-- User login: Users will be able to create accounts and log in to the application. Each user will have their own profile page.
-- Chart calculation: Users will be able to enter their birth information into a form, and receive their natal chart on submission.
-- CRUD: Each user will be able to create, read, and update information pertaining to their accounts (passwords, usernames, or astrological info). Users will be able to delete their accounts.
-- Chart Information: Users will be able to read descriptions of signs and plants, which are major elements of the natal chart.
+- CRUD ♻️: Each user will be able to create, read, and update information pertaining to their accounts (passwords or birthdate info). Users will be able to delete their accounts.
+- User Login Authentication 🔒: Users will be able to create accounts and log in to the application. Each user will have their own profile page.
+- Sun Sign Calculation 🌞: Users will be able to enter their birth information into a form, and receive their natal chart on submission.
+- Moon Phase Information /w Suggested TODOs 🌕: Users will be able to see the moon's current phases everyday, and be suggested a task to do.
+- Downloadable Chart Information 💾: Users will be able to read descriptions of signs and planets, which are major elements of the natal chart. EX: (Virgo.pdf)
 ### Technologies
-JavaScript or Python
-MySQL
-Bootstrap
+- JavaScript or Python
+- MySQL
+- Asp.NET
+- Bootstrap
 ### What I'll Have to Learn
-- How to use planetary coordinate calculators to calculate each user's natal placements
-- How to use bootstrap or a related styling format that will help to display the natal chart information neatly
+- How to create an algorithm that calculates a user's sun signs based off month and day
+- How to use bootstrap or a related styling template that will help to display the natal chart information neatly
 ### Project Tracker
-<a href="https://trello.com/b/JaVSRlct/liftoff-project">Project Tracker</a>
+<a href="https://trello.com/b/JaVSRlct/liftoff-project">Dashaun's Project Tracker</a>
+### Future Features
+- Chart calculation: When users submit their their birth information form, they receive a full chart of their placements (ie. moon, ascendant, mercury)
+### What I'll have to learn for future features
+- How to use planetary coordinate calculators to calculate each user's natal placements
