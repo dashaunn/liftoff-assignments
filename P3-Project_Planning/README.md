@@ -8,12 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- [Register (Student)](https://app.moqups.com/YGt9pka5M8gTCUZZ6XGeQRABdqzhUYVD/edit/page/aeb0e10e8)
+- [Register (Astrologer)](https://app.moqups.com/YGt9pka5M8gTCUZZ6XGeQRABdqzhUYVD/edit/page/a80b363a7)
+- [Login](https://app.moqups.com/YGt9pka5M8gTCUZZ6XGeQRABdqzhUYVD/edit/page/a6bd9ffd8)
+- [Calculate](https://app.moqups.com/YGt9pka5M8gTCUZZ6XGeQRABdqzhUYVD/edit/page/ac4368db9)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Project Trello Board](https://trello.com/b/JaVSRlct/liftoff-project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Project Repository](https://github.com/dashaunn/LiftoffProject)
