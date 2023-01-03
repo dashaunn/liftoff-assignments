@@ -1,6 +1,7 @@
 # ASTROCOSM
 ### Overview
-This project will offer users a simple analysis of relevant astrological data that derives from their birthdate information. It will familiarize users with their personal astrological information, and connect them with fellow students of astrology. In general, this project informs and connects those who are curious about astrology. 
+This project will offer users a simple understanding of relevant astrological data that derives from their birthdate information. It will familiarize users with their personal (natal) astrological information, and provide them access to an astrological forecast (horoscope) for their sign. In general, this project connects those who are curious about astrology to a database that is dedicated to providing a fundamental understanding of astrology to students of astrology.
+### Features
 - User Accounts + User Authorization 🔒: Users will be able to create user accounts on the app. Each user will have their own profile page.
 - Sun Sign Calculation 🌞: Users will be able to enter their new login and birthdate information into a form, then see their 'sun sign' information on submission.
 - Horoscopes 🔮: Users will be able to read a horoscope based off of their sun sign for yesterday, today, or tomorrow.
@@ -18,5 +19,5 @@ This project will offer users a simple analysis of relevant astrological data th
 <a href="https://trello.com/b/JaVSRlct/liftoff-project">ASTROCOSM Project Tracker</a>
 ### Future Features
 - Downloadable Chart Information 💾: Users will be able to download and read information about signs and planets, which are important elements of astrology.
-- Full Chart calculation 🗺️: When users submit their their birth information form, they receive a full chart of their placements (ie. moon, ascendant, mercury)
-- Moon Phase Information w/ Suggested TODOs 🌕: Users will be able to see the moon's current phase, and be suggested a task based on that phase.
+- Full Chart Calculation 🗺️: When users submit their their birthdate information to the calculator, they will be shown a chart that displays all of their placements (e.g., moon, ascendant, and mercury).
+- Moon Phase Information w/ Suggested TODOs 🌕: Users will be able to see the moon's current phase, and be given a task based on that phase.
