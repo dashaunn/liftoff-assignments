@@ -14,4 +14,4 @@ For this assignment you will need to upload your resume and provide links to you
 
 ### Resume
 
-[Dashaun Sutton-Harris.Resume.pdf](https://github.com/dashaunn/liftoff-assignments/files/10138000/Dashaun.Sutton-Harris.Resume.pdf)
+[Dashaun Sutton-Harris Resume](https://docs.google.com/document/d/1CGCxNceTn5jfITacxWVVNvPn7Vkwn7lFUjJ__BI64Hs/edit#)
