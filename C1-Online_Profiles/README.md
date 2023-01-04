@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
  <a href="https://github.com/dashaunn">Dashaun's Github</a>
  
 ### LinkedIn
-[Dashaun's LinkedIn](www.linkedin.com/in/dashaun-sutton-harris-a0054525a)
+[Dashaun's LinkedIn](https://www.linkedin.com/in/dashaun-sutton-harris-a0054525a)
 
 ### Resume
 
